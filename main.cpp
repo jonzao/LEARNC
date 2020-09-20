@@ -28,5 +28,6 @@ void test()
 int main()
 {
     test();
+    cout << "xxx" << endl;
     return 0;
 }
